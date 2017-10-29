@@ -1,0 +1,11 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "On the fly image-resizer using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT"
+}

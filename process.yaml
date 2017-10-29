@@ -1,0 +1,7 @@
+apps:
+  - script: ./server.js
+    name: "image-resizer"
+    instances: 0
+    max_memory_restart: "3G"
+    node_args: "--expose-gc --max-old-space-size=4096"
+    exec_mode: "cluster"
